@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "fact": "Dogs have an extraordinary sense of smell, with some breeds able to detect scents up to 100,000 times better than humans.",
+        "dog_breed": "All Breeds",
+        "deleted": false,
+        "rating": 9.5
+    },
+    {
+        "id": 2,
+        "fact": "The Basenji dog breed doesn't bark like other dogs; instead, they make a unique sound often described as a yodel.",
+        "dog_breed": "Basenji",
+        "deleted": false,
+        "rating": 8.7
+    },
+    {
+        "id": 3,
+        "fact": "Dogs have three eyelids. The third lid, called a nictitating membrane or 'haw,' helps protect their eyes and keep them moist.",
+        "dog_breed": "All Breeds",
+        "deleted": false,
+        "rating": 9.2
+    },
+    {
+        "id": 4,
+        "fact": "Golden Retrievers are well-known for their friendly and gentle temperament, making them great family pets.",
+        "dog_breed": "Golden Retriever",
+        "deleted": false,
+        "rating": 9.8
+    },
+    {
+        "id": 5,
+        "fact": "Dalmatians are born completely white and develop their spots as they grow older.",
+        "dog_breed": "Dalmatian",
+        "deleted": false,
+        "rating": 8.9
+    },
+    {
+        "id": 6,
+        "fact": "The world's oldest known breed is the Saluki, which dates back to ancient Egypt.",
+        "dog_breed": "Saluki",
+        "deleted": false,
+        "rating": 9.4
+    },
+    {
+        "id": 7,
+        "fact": "The Newfoundland breed has webbed feet, which aids them in swimming, making them excellent water rescue dogs.",
+        "dog_breed": "Newfoundland",
+        "deleted": false,
+        "rating": 9.6
+    },
+    {
+        "id": 8,
+        "fact": "Pugs have a distinctive wrinkled face and a curled tail. They're known for their charming personality.",
+        "dog_breed": "Pug",
+        "deleted": false,
+        "rating": 8.5
+    },
+    {
+        "id": 9,
+        "fact": "Siberian Huskies have a thick double coat that helps regulate their body temperature in extreme cold.",
+        "dog_breed": "Siberian Husky",
+        "deleted": false,
+        "rating": 9.7
+    },
+    {
+        "id": 10,
+        "fact": "Chihuahuas are one of the smallest dog breeds and are named after the state of Chihuahua in Mexico.",
+        "dog_breed": "Chihuahua",
+        "deleted": false,
+        "rating": 8.8
+    }
+]
