@@ -1,0 +1,42 @@
+[
+  {
+    "type": "cat",
+    "_id": "58e00b5f0aac31001185ed24",
+    "user": "58e007480aac31001185ecef",
+    "text": "When asked if her husband had any hobbies, Mary Todd Lincoln is said to have replied \"cats.\"",
+    "used": false,
+    "deleted": false
+  },
+  {
+    "type": "cat",
+    "_id": "5887e1d85c873e0011036889",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "Cats make about 100 different sounds. Dogs make only about 10.",
+    "used": true,
+    "deleted": false
+  },
+  {
+    "type": "cat",
+    "_id": "58e008780aac31001185ed05",
+    "user": "58e007480aac31001185ecef",
+    "text": "Owning a cat can reduce the risk of stroke and heart attack by a third.",
+    "used": false,
+    "deleted": false
+  },
+  {
+    "type": "cat",
+    "_id": "58e009390aac31001185ed10",
+    "user": "58e007480aac31001185ecef",
+    "text": "Most cats are lactose intolerant, and milk can cause painful stomach cramps and diarrhea. It's best to forego the milk and just give your cat the standard: clean, cool drinking water.",
+    "used": false,
+    "deleted": false
+  },
+  {
+    "type": "cat",
+    "_id": "58e00af60aac31001185ed1d",
+    "user": "58e007480aac31001185ecef",
+    "text": "It was illegal to slay cats in ancient Egypt, in large part because they provided the great service of controlling the rat population.",
+    "used": true,
+    "deleted": false
+  }
+]
