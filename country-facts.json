@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "facts": [
+            "China is the most populous country in the world, with over 1.4 billion people.",
+            "China is the fourth-largest country by land area, covering approximately 9.6 million square kilometers.",
+            "China is known for its rich history, cultural heritage, and contributions to various fields such as philosophy, science, and technology."
+        ],
+        "country": "China",
+        "population": 1400000000,
+        "isLandlocked": false
+    },
+    {
+        "id": 2,
+        "facts": [
+            "United States is the third-most populous country globally, with over 331 million people.",
+            "United States is the third-largest country by land area, covering approximately 9.8 million square kilometers.",
+            "United States is known for its cultural diversity, technological innovation, and economic influence."
+        ],
+        "country": "United States",
+        "population": 331000000,
+        "isLandlocked": false
+    },
+    {
+        "id": 3,
+        "facts": [
+            "Brazil is the largest country in South America, both by land area and population.",
+            "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world.",
+            "Brazil is known for its vibrant culture, including music, dance, and festivals like Carnival."
+        ],
+        "country": "Brazil",
+        "population": 213000000,
+        "isLandlocked": false
+    },
+    {
+        "id": 4,
+        "facts": [
+            "Indonesia is the largest archipelago in the world, consisting of over 17,000 islands.",
+            "Indonesia is the fourth-most populous country globally, with over 273 million people.",
+            "Indonesia is known for its rich biodiversity, including tropical forests, coral reefs, and unique wildlife."
+        ],
+        "country": "Indonesia",
+        "population": 273000000,
+        "isLandlocked": false
+    },
+    {
+        "id": 5,
+        "facts": [
+            "Pakistan is the sixth-most populous country globally, with over 225 million people.",
+            "Pakistan is known for its diverse landscapes, including mountains, deserts, and coastal areas.",
+            "Pakistan is a nuclear-armed country and plays a crucial role in geopolitics, particularly in South Asia."
+        ],
+        "country": "Pakistan",
+        "population": 225000000,
+        "isLandlocked": false
+    },
+    {
+        "id": 6,
+        "facts": [
+            "Nigeria is the most populous country in Africa, with over 206 million people.",
+            "Nigeria is known for its diverse culture, languages, and ethnic groups, with over 250 distinct ethnicities.",
+            "Nigeria is a major oil-producing country and the largest economy in Africa."
+        ],
+        "country": "Nigeria",
+        "population": 206000000,
+        "isLandlocked": false
+    },
+    {
+        "id": 7,
+        "facts": [
+            "Ethiopia is the second-most populous country in Africa, with over 120 million people.",
+            "Ethiopia is known for its ancient history, being one of the oldest countries in the world with a history dating back thousands of years.",
+            "Ethiopia is a land of diverse landscapes, including highlands, plateaus, and the Great Rift Valley."
+        ],
+        "country": "Ethiopia",
+        "population": 120000000,
+        "isLandlocked": true
+    },
+    {
+        "id": 8,
+        "facts": [
+            "Kazakhstan is the ninth-largest country by land area in the world.",
+            "Kazakhstan is known for its vast steppes, deserts, and mountain ranges, including the Tien Shan and Altai Mountains.",
+            "Kazakhstan has a rich cultural heritage, influenced by its nomadic history and various ethnic groups."
+        ],
+        "country": "Kazakhstan",
+        "population": 19000000,
+        "isLandlocked": true
+    }
+]
