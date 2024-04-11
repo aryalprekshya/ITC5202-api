@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "fact": "The Peregrine Falcon is the fastest animal on Earth, reaching speeds of over 240 miles per hour when diving for prey.",
+        "bird_species": "Peregrine Falcon",
+        "status": "not endangered",
+        "rating": 9.5
+    },
+    {
+        "id": 2,
+        "fact": "Hummingbirds are the only birds that can fly backward and hover in mid-air.",
+        "bird_species": "Hummingbird",
+        "status": "not endangered",
+        "rating": 8.7
+    },
+    {
+        "id": 3,
+        "fact": "Owls are capable of rotating their heads up to 270 degrees due to their flexible necks and unique anatomy.",
+        "bird_species": "Owl",
+        "status": "not endangered",
+        "rating": 9.2
+    },
+    {
+        "id": 4,
+        "fact": "The African Grey Parrot is one of the most intelligent bird species, capable of learning hundreds of words and phrases.",
+        "bird_species": "African Grey Parrot",
+        "status": "not endangered",
+        "rating": 9.8
+    },
+    {
+        "id": 5,
+        "fact": "The Kiwi bird is the only bird with nostrils at the end of its beak, allowing it to sniff out insects and food underground.",
+        "bird_species": "Kiwi",
+        "status": "not endangered",
+        "rating": 8.9
+    },
+    {
+        "id": 6,
+        "fact": "Albatrosses have the longest wingspan of any bird, with some species reaching up to 11 feet from tip to tip.",
+        "bird_species": "Albatross",
+        "status": "not endangered",
+        "rating": 9.4
+    },
+    {
+        "id": 7,
+        "fact": "The Bald Eagle is the national bird and symbol of the United States, representing strength and freedom.",
+        "bird_species": "Bald Eagle",
+        "status": "not endangered",
+        "rating": 9.6
+    },
+    {
+        "id": 8,
+        "fact": "Flamingos are born with gray feathers and gradually turn pink due to their diet, which consists mainly of shrimp and algae.",
+        "bird_species": "Flamingo",
+        "status": "not endangered",
+        "rating": 8.5
+    },
+    {
+        "id": 9,
+        "fact": "The Great Horned Owl is known for its distinctive 'horns,' which are actually tufts of feathers on its head.",
+        "bird_species": "Great Horned Owl",
+        "status": "not endangered",
+        "rating": 9.7
+    },
+    {
+        "id": 10,
+        "fact": "The Toucan has a large and colorful bill that can reach up to half the length of its body.",
+        "bird_species": "Toucan",
+        "status": "not endangered",
+        "rating": 8.8
+    }
+]
