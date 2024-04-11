@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "species": "Dodo",
+        "status": "extinct",
+        "reason": "Habitat destruction and hunting by humans",
+        "rating": 9.5
+    },
+    {
+        "id": 2,
+        "species": "Tasmanian Tiger (Thylacine)",
+        "status": "extinct",
+        "reason": "Hunted to extinction by humans and habitat loss",
+        "rating": 8.7
+    },
+    {
+        "id": 3,
+        "species": "Javan Rhino",
+        "status": "critically endangered",
+        "reason": "Habitat loss and poaching for their horns",
+        "rating": 9.2
+    },
+    {
+        "id": 4,
+        "species": "Amur Leopard",
+        "status": "critically endangered",
+        "reason": "Habitat loss, poaching, and human-wildlife conflict",
+        "rating": 9.8
+    },
+    {
+        "id": 5,
+        "species": "Vaquita",
+        "status": "critically endangered",
+        "reason": "Bycatch in illegal fishing nets",
+        "rating": 8.9
+    },
+    {
+        "id": 6,
+        "species": "Sumatran Orangutan",
+        "status": "critically endangered",
+        "reason": "Deforestation, palm oil plantations, and illegal hunting",
+        "rating": 9.4
+    },
+    {
+        "id": 7,
+        "species": "Baiji Dolphin",
+        "status": "functionally extinct",
+        "reason": "Habitat degradation, pollution, and boat traffic",
+        "rating": 9.6
+    },
+    {
+        "id": 8,
+        "species": "Northern White Rhinoceros",
+        "status": "functionally extinct",
+        "reason": "Poaching for their horns and habitat loss",
+        "rating": 8.5
+    }
+]
