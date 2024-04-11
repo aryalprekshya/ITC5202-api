@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "fact": "The Earth's core is primarily composed of iron and nickel, and its temperature can reach up to 9,000 degrees Fahrenheit.",
+        "topic": "Geophysics",
+        "status": "verified",
+        "rating": 9.5
+    },
+    {
+        "id": 2,
+        "fact": "Photosynthesis, the process by which plants convert sunlight into energy, produces approximately 130 billion metric tons of oxygen every year.",
+        "topic": "Biology",
+        "status": "verified",
+        "rating": 8.7
+    },
+    {
+        "id": 3,
+        "fact": "The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second), making it the fastest-known phenomenon in the universe.",
+        "topic": "Physics",
+        "status": "verified",
+        "rating": 9.2
+    },
+    {
+        "id": 4,
+        "fact": "DNA, or deoxyribonucleic acid, contains the genetic instructions necessary for the development, functioning, growth, and reproduction of all known living organisms.",
+        "topic": "Genetics",
+        "status": "unverified",
+        "rating": 9.8
+    },
+    {
+        "id": 5,
+        "fact": "The theory of plate tectonics explains the movement of Earth's lithosphere plates, which float on the semi-fluid asthenosphere beneath them and cause phenomena such as earthquakes and volcanic eruptions.",
+        "topic": "Geology",
+        "status": "verified",
+        "rating": 8.9
+    },
+    {
+        "id": 6,
+        "fact": "The human brain contains approximately 86 billion neurons, each capable of forming thousands of connections with other neurons, allowing for complex cognitive functions and behaviors.",
+        "topic": "Neuroscience",
+        "status": "verified",
+        "rating": 9.4
+    },
+    {
+        "id": 7,
+        "fact": "Quantum mechanics is a fundamental theory in physics that describes the behavior of matter and energy at the smallest scales, such as atoms and subatomic particles, often exhibiting counterintuitive phenomena like superposition and entanglement.",
+        "topic": "Quantum Physics",
+        "status": "verified",
+        "rating": 9.6
+    },
+        {
+        "id": 8,
+        "fact": "The Big Bang theory is the prevailing cosmological model for the observable universe's origin, suggesting that it began as a hot, dense state approximately 13.8 billion years ago and has been expanding ever since.",
+        "topic": "Cosmology",
+        "status": "verified",
+        "rating": 8.5
+    },
+    {
+        "id": 9,
+        "fact": "Dark matter is a hypothetical form of matter that is thought to make up approximately 27% of the total mass-energy content of the universe, yet it does not emit, absorb, or reflect electromagnetic radiation, making it invisible and detectable only through its gravitational effects.",
+        "topic": "Astrophysics",
+        "status": "unverified",
+        "rating": 9.3
+    },
+    {
+        "id": 10,
+        "fact": "The theory of evolution by natural selection, proposed by Charles Darwin, suggests that species evolve over time through the process of natural selection, where organisms with favorable traits are more likely to survive and reproduce, leading to changes in the inherited characteristics of populations over generations.",
+        "topic": "Evolutionary Biology",
+        "status": "unverified",
+        "rating": 9.1
+    }
+]
