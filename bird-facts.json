@@ -3,7 +3,7 @@
         "id": 1,
         "fact": "The Peregrine Falcon is the fastest animal on Earth, reaching speeds of over 240 miles per hour when diving for prey.",
         "bird_species": "Peregrine Falcon",
-        "status": "not endangered",
+        "status": "endangered",
         "rating": 9.5
     },
     {
