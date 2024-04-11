@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "facts": [
+            "Mount Everest is the highest mountain in the world, with a peak reaching 29,032 feet (8,848 meters) above sea level.",
+            "Mount Everest is located in the Himalayas on the border between Nepal and China.",
+            "Mount Everest was first successfully summited by Sir Edmund Hillary of New Zealand and Tenzing Norgay, a Sherpa of Nepal, on May 29, 1953."
+        ],
+        "mountain": "Mount Everest",
+        "location": "Nepal, China",
+        "height_meters": 8848
+    },
+    {
+        "id": 2,
+        "facts": [
+            "K2, also known as Mount Godwin-Austen, is the second-highest mountain in the world, with a peak reaching 28,251 feet (8,611 meters) above sea level.",
+            "K2 is located in the Karakoram Range on the China-Pakistan border.",
+            "K2 is considered one of the most difficult mountains to climb, with a high fatality rate among climbers."
+        ],
+        "mountain": "K2 (Mount Godwin-Austen)",
+        "location": "China, Pakistan",
+        "height_meters": 8611
+    },
+    {
+        "id": 3,
+        "facts": [
+            "Kangchenjunga is the third-highest mountain in the world, with a peak reaching 28,169 feet (8,586 meters) above sea level.",
+            "Kangchenjunga is located in the Himalayas on the India-Nepal border.",
+            "Kangchenjunga is considered sacred by the local people, and climbing to the summit is prohibited."
+        ],
+        "mountain": "Kangchenjunga",
+        "location": "India, Nepal",
+        "height_meters": 8586
+    },
+    {
+        "id": 4,
+        "facts": [
+            "Lhotse is the fourth-highest mountain in the world, with a peak reaching 27,940 feet (8,516 meters) above sea level.",
+            "Lhotse is located in the Himalayas on the border between Nepal and China, near Mount Everest.",
+            "Lhotse is connected to Mount Everest by the South Col, making it a popular destination for climbers attempting to summit both peaks."
+        ],
+        "mountain": "Lhotse",
+        "location": "Nepal, China",
+        "height_meters": 8516
+    },
+    {
+        "id": 5,
+        "facts": [
+            "Makalu is the fifth-highest mountain in the world, with a peak reaching 27,838 feet (8,485 meters) above sea level.",
+            "Makalu is located in the Himalayas on the border between Nepal and China.",
+            "Makalu is known for its challenging climbing routes and steep pyramid shape."
+        ],
+        "mountain": "Makalu",
+        "location": "Nepal, China",
+        "height_meters": 8485
+    },
+    {
+        "id": 6,
+        "facts": [
+            "Cho Oyu is the sixth-highest mountain in the world, with a peak reaching 26,906 feet (8,201 meters) above sea level.",
+            "Cho Oyu is located in the Himalayas on the China-Nepal border.",
+            "Cho Oyu is considered one of the easiest 8,000-meter peaks to climb, making it popular among mountaineers."
+        ],
+        "mountain": "Cho Oyu",
+        "location": "China, Nepal",
+        "height_meters": 8201
+    },
+    {
+        "id": 7,
+        "facts": [
+            "Dhaulagiri is the seventh-highest mountain in the world, with a peak reaching 26,795 feet (8,167 meters) above sea level.",
+            "Dhaulagiri is located in the Himalayas of Nepal.",
+            "Dhaulagiri was first climbed in 1960 by a Swiss-Austrian expedition led by Max Eiselin."
+        ],
+        "mountain": "Dhaulagiri",
+        "location": "Nepal",
+        "height_meters": 8167
+    },
+    {
+        "id": 8,
+        "facts": [
+            "Manaslu is the eighth-highest mountain in the world, with a peak reaching 26,781 feet (8,163 meters) above sea level.",
+            "Manaslu is located in the Himalayas of Nepal.",
+            "Manaslu is known for its breathtaking views and challenging climbing routes."
+        ],
+        "mountain": "Manaslu",
+        "location": "Nepal",
+        "height_meters": 8163
+    },
+    {
+        "id": 9,
+        "facts": [
+            "Nanga Parbat is the ninth-highest mountain in the world, with a peak reaching 26,660 feet (8,126 meters) above sea level.",
+            "Nanga Parbat is located in the Himalayas of Pakistan.",
+            "Nanga Parbat is nicknamed the 'Killer Mountain' due to its high fatality rate among climbers."
+        ],
+        "mountain": "Nanga Parbat",
+        "location": "Pakistan",
+        "height_meters": 8126
+    },
+    {
+        "id": 10,
+        "facts": [
+            "Annapurna is the tenth-highest mountain in the world, with a peak reaching 26,545 feet (8,091 meters) above sea level.",
+            "Annapurna is located in the Himalayas of Nepal.",
+            "Annapurna was the first 8,000-meter peak to be climbed, achieved by a French expedition led by Maurice Herzog in 1950."
+        ],
+        "mountain": "Annapurna",
+        "location": "Nepal",
+        "height_meters": 8091
+    }
+]
